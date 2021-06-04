@@ -178,6 +178,10 @@ button:focus,
   font-size: 1.1rem;
 }
 
+.about-me p {
+  align-self: flex-start;
+}
+
 @keyframes color-change {
   0% {
     fill: #edc655;
